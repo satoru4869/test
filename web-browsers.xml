@@ -1,7 +1,7 @@
 <application>
   <component name="WebBrowsersConfiguration" default="alternative">
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME" path="$USER_HOME$/Documents/PortableApps/GoogleChromePortable/GoogleChromePortable.exe " />
-    <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX">
+    <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" path="$USER_HOME$/Documents/PortableApps/FirefoxPortable/FirefoxPortable.exe">
       <settings>
         <profiles-ini-path>$USER_HOME$/AppData/Roaming/Mozilla/Firefox/profiles.ini</profiles-ini-path>
       </settings>
