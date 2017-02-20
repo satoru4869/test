@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="プロジェクト 'jQuery'" />
-    <option name="defaultScopeName" value="プロジェクト 'jQuery'" />
+    <option name="customScope" value="プロジェクト 'patroller_report'" />
+    <option name="defaultScopeName" value="プロジェクト 'patroller_report'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="プロジェクト 'jQuery'" />
+    <option name="SEARCH_SCOPE" value="プロジェクト 'patroller_report'" />
   </component>
 </application>
