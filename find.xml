@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="プロジェクト 'patroller_report'" />
-    <option name="defaultScopeName" value="プロジェクト 'patroller_report'" />
+    <option name="customScope" value="Directory '[mondai2_2] - ...'" />
+    <option name="defaultScopeName" value="Directory '[mondai2_2] - ...'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="プロジェクト 'patroller_report'" />
+    <option name="SEARCH_SCOPE" value="Directory '[mondai2_2] - ...'" />
   </component>
 </application>
