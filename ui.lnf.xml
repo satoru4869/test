@@ -1,7 +1,9 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Ricty Diminished Discord" />
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="FONT_FACE" value="Yu Gothic UI Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>
