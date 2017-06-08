@@ -6,8 +6,20 @@
           <option name="url" value="https://github.com/test4869/test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/electron/electron-quick-start" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/liberodark/ODrive" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/akabekobeko/examples-electron.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\sh486\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\sh486\Desktop" />
   </component>
 </application>
