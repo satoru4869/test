@@ -1,7 +1,7 @@
 <application>
   <component name="RemoteServers">
     <remote-server name="Heroku" type="heroku">
-      <configuration email="sh4869@protonmail.com" password="jsperopero4869" />
+      <configuration email="sh4869@protonmail.com" password="jsperopero" />
     </remote-server>
   </component>
 </application>
