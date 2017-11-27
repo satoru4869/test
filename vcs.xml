@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/akabekobeko/examples-electron.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tag1216/example-spring-boot-jsr310.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\sh486\Desktop" />
