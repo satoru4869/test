@@ -1,9 +1,7 @@
 <application>
   <component name="libraryTable">
     <library name="bootstrap" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.1_js_bootstrap.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
@@ -12,9 +10,7 @@
         <option name="frameworkName" value="Dojo" />
         <option name="frameworkVersion" value="1.8.3" />
       </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_download.dojotoolkit.org_release-1.8.3_dojo.js.uncompressed.js" />
-      </CLASSES>
+      <CLASSES />
       <DOCUMENTATION>
         <root url="http://dojotoolkit.org/api" />
       </DOCUMENTATION>
@@ -22,23 +18,17 @@
       <SOURCES />
     </library>
     <library name="electron-config-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_electron-config_index.d.ts" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="electron-debug-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_electron-debug_index.d.ts" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="electron-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_electron_index.d.ts" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
@@ -46,9 +36,7 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
       </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.11.1_jquery.js" />
-      </CLASSES>
+      <CLASSES />
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
       </DOCUMENTATION>
