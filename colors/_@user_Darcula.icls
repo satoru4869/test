@@ -1,42 +1,11 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-04-28T14:20:45</property>
+    <property name="created">2017-11-27T13:46:11</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-11-18T20:13:58</property>
+    <property name="ideVersion">2017.3.0.0</property>
+    <property name="modified">2018-01-09T12:19:12</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Hack NF" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Meiryo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <option name="CONSOLE_FONT_NAME" value="Hack NF" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <attributes>
-    <option name="BATCH.BRACES">
-      <value />
-    </option>
-    <option name="JAVA_BRACES">
-      <value />
-    </option>
-    <option name="JAVA_BRACKETS">
-      <value />
-    </option>
-    <option name="JAVA_COMMA">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
-    <option name="JAVA_DOT">
-      <value />
-    </option>
-    <option name="JAVA_OPERATION_SIGN">
-      <value />
-    </option>
-  </attributes>
+  <option name="CONSOLE_FONT_NAME" value="Hack" />
 </scheme>

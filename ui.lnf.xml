@@ -1,7 +1,6 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Yu Gothic UI Semibold" />
+    <option name="FONT_FACE" value="Yu Gothic UI Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
