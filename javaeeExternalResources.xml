@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://xmlns.jcp.org/jsf/html" location="$USER_HOME$/Desktop/project/etc/javaee/sample07" />
+  </component>
+</application>
