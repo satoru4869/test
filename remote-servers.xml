@@ -8,5 +8,8 @@
         <option name="apiUrl" value="tcp://localhost:2375" />
       </configuration>
     </remote-server>
+    <remote-server name="Heroku2" type="heroku">
+      <configuration apiKey="e47b5707-ecd7-4abb-bcad-518b2835f514" email="sh4869221b@gmail.com" password="Sh4869221b" />
+    </remote-server>
   </component>
 </application>
